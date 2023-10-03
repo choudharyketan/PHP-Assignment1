@@ -1,0 +1,27 @@
+/* Add your CSS styles here */
+header {
+    background-color: #8dd8fa;
+    color: #fff;
+    padding: 10px;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav li {
+    display: inline;
+    margin-right: 20px;
+}
+
+main {
+    padding: 20px;
+}
+
+footer {
+    background-color: #8dd8fa;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
